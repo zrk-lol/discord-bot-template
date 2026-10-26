@@ -33,4 +33,4 @@ npm run dev            # start the bot with hot reload
 Base de bot Discord en TypeScript : commandes slash, anti-spam par utilisateur, gestion d’erreurs et variables d’environnement vérifiées. Copiez `.env.example` en `.env`, remplissez le token, puis `npm run deploy` et `npm run dev`.
 
 ---
-Made by [Varhex by Ȥrk Team](https://www.zrk.lol) · MIT licence
+Made by [Varhex by Ȥrk Team](https://varhex.com) · MIT licence
